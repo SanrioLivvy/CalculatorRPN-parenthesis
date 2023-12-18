@@ -1,0 +1,22 @@
+RUN PROGRAM AND ENTER THESE VALUES
+
+( 3.14 ( 2 3 + ) ( 1.571 sin ) )   should be aprox 15.69999...
+
+( 2 ( 3 ( 4 5 + ) ) )   should be 54
+
+3 4 +   should be 7
+
+5 4 2 * +    should be 13
+
+( 5 6 3 cos * ) )  should be aprox 29.6997748
+
+( 3 ( 5 tan ) ) should be aprox -10.141545
+
+
+When parenthesis are uneven, or user input is unevenly spaced an error should return
+for example: 
+( 3.76 ( 4 5 ^ ) should be ERROR
+
+( 3.76 (45*7)) should be ERROR
+
+
